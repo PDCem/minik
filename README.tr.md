@@ -209,3 +209,11 @@ Her klip kendi ekran kartımızda yerel olarak üretiliyor:
 ## Lisans
 
 Açık kaynak. Kesin lisans ilk sürümle birlikte belirlenecek.
+
+## İletişim
+
+Soru, fikir ya da sadece merhaba demek için:
+
+- ✉️ [cemcumali@gmail.com](mailto:cemcumali@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cem-cumali-789a01101/)
+- 🌐 [pdcem.github.io](https://pdcem.github.io)

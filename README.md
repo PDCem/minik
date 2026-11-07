@@ -209,3 +209,11 @@ Every clip is built locally on our own graphics card:
 ## License
 
 Open source. The exact license will follow with the first release.
+
+## Contact
+
+Questions, ideas or just want to say hi:
+
+- ✉️ [cemcumali@gmail.com](mailto:cemcumali@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cem-cumali-789a01101/)
+- 🌐 [pdcem.github.io](https://pdcem.github.io)
