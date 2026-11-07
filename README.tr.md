@@ -8,6 +8,8 @@
 
 ### 🚧 Yakında Android uygulaması olarak
 
+**Önce Android, ardından bilgisayarın için: Windows, Mac ve Linux.**
+
 **Hologram olarak yaşayan küçük bir aile robotu.**<br>
 Adını duyunca uyanır, seni yüzünden ve sesinden tanır, Almanca ve Türkçe rahatça konuşur,<br>
 evindeki herkesi tanır ve her gece yeni bir şey öğrenir.
@@ -162,6 +164,14 @@ flowchart LR
     L --> T[Araçlar<br/>arama, randevular, fotoğraflar]
 ```
 
+## Sırada ne var
+
+### 🖥️ Bilgisayarında Minik
+Android uygulamasından sonra Minik bilgisayarına geliyor: masaüstünde duran **arka plansız** küçük bir figür olarak. Seni web kamerasıyla görür, mikrofonla duyar ve tıpkı telefondaki gibi seninle konuşur. **Windows, Mac ve Linux** için.
+
+### 🎄 Yılbaşı güncellemesi
+Yılbaşında Minik **yeni videolar ve yeni etkileşimlerle** büyük bir güncelleme alıyor.
+
 ## Figür nasıl yapılıyor
 
 Her klip kendi ekran kartımızda yerel olarak üretiliyor:
@@ -176,6 +186,7 @@ Her klip kendi ekran kartımızda yerel olarak üretiliyor:
 - [x] iPhone prototipi: sohbet, yüzler, sesler, dosyalar, figür, danslar, uyku, haberler
 - [ ] Her şeyi telefonda çalıştıran Android uygulaması
 - [ ] Releases altında ilk APK
+- [ ] 🎄 Yeni videolar ve etkileşimlerle yılbaşı güncellemesi
 - [ ] Masaüstünde Minik: Windows, Mac ve Linux için arka plansız figür, web kamerası ve mikrofonla
 
 ## Lisans

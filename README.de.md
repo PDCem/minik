@@ -8,6 +8,8 @@
 
 ### 🚧 Kommt bald als Android-App
 
+**Zuerst Android, danach für deinen PC: Windows, Mac und Linux.**
+
 **Ein kleiner Familienroboter als Hologramm.**<br>
 Er hört auf seinen Namen, erkennt dich am Gesicht und an der Stimme, redet frei auf Deutsch und Türkisch,<br>
 kennt jeden in deinem Zuhause und lernt jede Nacht dazu.
@@ -162,6 +164,14 @@ flowchart LR
     L --> T[Werkzeuge<br/>Suche, Termine, Fotos]
 ```
 
+## Was als Nächstes kommt
+
+### 🖥️ Minik auf deinem PC
+Nach der Android-App kommt Minik auf den Computer: als kleine Figur **ohne Hintergrund**, die direkt auf deinem Desktop steht. Er sieht dich über die Webcam, hört dich über das Mikrofon und redet mit dir, genau wie auf dem Handy. Für **Windows, Mac und Linux**.
+
+### 🎄 Weihnachts-Update
+Zu Weihnachten bekommt Minik ein großes Update mit **neuen Videos und neuen Interaktionen**.
+
 ## Wie die Figur entsteht
 
 Jeder Clip wird lokal auf einer eigenen Grafikkarte gebaut:
@@ -176,6 +186,7 @@ Jeder Clip wird lokal auf einer eigenen Grafikkarte gebaut:
 - [x] Prototyp auf dem iPhone: Gespräch, Gesichter, Stimmen, Akten, Figur, Tänze, Schlafen, Nachrichten
 - [ ] Android-App mit allem auf dem Handy
 - [ ] Erste APK in den Releases
+- [ ] 🎄 Weihnachts-Update mit neuen Videos und Interaktionen
 - [ ] Minik auf dem Desktop: Figur ohne Hintergrund für Windows, Mac und Linux, mit Webcam und Mikrofon
 
 ## Lizenz

@@ -8,6 +8,8 @@
 
 ### 🚧 Coming soon as an Android app
 
+**Android first, then for your PC: Windows, Mac and Linux.**
+
 **A tiny family robot, living as a hologram.**<br>
 He wakes up to his name, knows you by your face and your voice, talks freely in German and Turkish,<br>
 knows everyone in your home and learns something new every night.
@@ -162,6 +164,14 @@ flowchart LR
     L --> T[Tools<br/>search, appointments, photos]
 ```
 
+## Coming next
+
+### 🖥️ Minik on your PC
+After the Android app, Minik moves onto your computer: a little figure **without background**, standing right on your desktop. He sees you through the webcam, hears you through the microphone and talks to you, just like on the phone. For **Windows, Mac and Linux**.
+
+### 🎄 Christmas update
+For Christmas, Minik gets a big update with **new videos and new interactions**.
+
 ## How the figure is made
 
 Every clip is built locally on our own graphics card:
@@ -176,6 +186,7 @@ Every clip is built locally on our own graphics card:
 - [x] iPhone prototype: conversation, faces, voices, profiles, figure, dances, sleeping, news
 - [ ] Android app with everything on the phone
 - [ ] First APK in Releases
+- [ ] 🎄 Christmas update with new videos and interactions
 - [ ] Minik on the desktop: a figure without background for Windows, Mac and Linux, with webcam and microphone
 
 ## License
