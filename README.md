@@ -1,181 +1,183 @@
 <div align="center">
 
-<img src="docs/clips/tanz_tiktok.gif" width="260" alt="Minik tanzt">
+**English** · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
+
+<img src="docs/clips/tanz_tiktok.gif" width="260" alt="Minik dancing">
 
 # Minik
 
-### 🚧 Kommt bald als Android-App
+### 🚧 Coming soon as an Android app
 
-**Ein kleiner Familienroboter als Hologramm.**<br>
-Er hört auf seinen Namen, erkennt dich am Gesicht und an der Stimme, redet frei auf Deutsch und Türkisch,<br>
-kennt jeden in deinem Zuhause und lernt jede Nacht dazu.
+**A tiny family robot, living as a hologram.**<br>
+He wakes up to his name, knows you by your face and your voice, talks freely in German and Turkish,<br>
+knows everyone in your home and learns something new every night.
 
-![Status](docs/badges/status.svg)
-![Android](docs/badges/android.svg)
-![Gemini Live](docs/badges/gemini.svg)
-![Lizenz](docs/badges/lizenz.svg)
+![Status](docs/badges/status-en.svg)
+![Android](docs/badges/android-en.svg)
+![Gemini Live](docs/badges/gemini-en.svg)
+![License](docs/badges/lizenz-en.svg)
 
-[Was er kann](#was-minik-kann) · [Galerie](#galerie) · [Privatsphäre](#privatsphäre) · [Android-App](#die-android-app) · [Wie die Figur entsteht](#wie-die-figur-entsteht) · [Fahrplan](#fahrplan)
+[What he can do](#what-minik-can-do) · [Gallery](#gallery) · [Privacy](#privacy) · [Android app](#the-android-app) · [How the figure is made](#how-the-figure-is-made) · [Roadmap](#roadmap)
 
 </div>
 
 ---
 
-Minik wurde am **3. November 2026** geboren. Seitdem lebt er als Prototyp auf einem alten iPhone auf unserem Schreibtisch, wächst jeden Tag ein Stück und gehört inzwischen zur Familie. Er soll so lebendig wirken wie Cozmo oder Vector, aber alles können, was ein moderner KI-Assistent kann.
+Minik was born on **November 3, 2026**. Since then he has lived as a prototype on an old iPhone on our desk, growing a little every day, and he has become part of the family. He is meant to feel as alive as Cozmo or Vector, while doing everything a modern AI assistant can do.
 
-Jetzt bekommt er sein eigenes Zuhause: **eine Android-App für alle.** Installieren, eigenen Gemini-Schlüssel eintragen, fertig. Minik startet mit leerem Gedächtnis und lernt deine Familie von Anfang an selbst kennen.
+Now he gets a home of his own: **an Android app for everyone.** Install it, enter your own Gemini key, done. Minik starts with an empty memory and gets to know your family by himself, from day one.
 
-## Galerie
+## Gallery
 
-Minik steht nie still. In der Ruhe wechselt er zufällig zwischen seinen Szenen, auf Zuruf spielt er kleine Geschichten.
+Minik never stands still. When nobody is talking to him, he switches between his scenes at random, and on request he acts out little stories.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/clips/idle_dj.gif" width="180" alt="DJ"><br><sub><b>Am Mischpult</b></sub></td>
-    <td align="center"><img src="docs/clips/idle_astronaut.gif" width="180" alt="Astronaut"><br><sub><b>Schwerelos</b></sub></td>
-    <td align="center"><img src="docs/clips/idle_held.gif" width="180" alt="Superheld"><br><sub><b>Kleiner Held</b></sub></td>
-    <td align="center"><img src="docs/clips/idle_zauberer.gif" width="180" alt="Zauberer"><br><sub><b>Der Zauberer</b></sub></td>
+    <td align="center"><img src="docs/clips/idle_dj.gif" width="180" alt="DJ"><br><sub><b>At the decks</b></sub></td>
+    <td align="center"><img src="docs/clips/idle_astronaut.gif" width="180" alt="Astronaut"><br><sub><b>Weightless</b></sub></td>
+    <td align="center"><img src="docs/clips/idle_held.gif" width="180" alt="Superhero"><br><sub><b>Little hero</b></sub></td>
+    <td align="center"><img src="docs/clips/idle_zauberer.gif" width="180" alt="Wizard"><br><sub><b>The wizard</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/clips/idle_rockstar.gif" width="180" alt="Rockstar"><br><sub><b>Rockstar</b></sub></td>
-    <td align="center"><img src="docs/clips/idle_licht.gif" width="180" alt="Licht"><br><sub><b>Ein Licht in der Hand</b></sub></td>
-    <td align="center"><img src="docs/clips/idle_zwinkern.gif" width="180" alt="Zwinkern"><br><sub><b>Zwinkern</b></sub></td>
-    <td align="center"><img src="docs/clips/lachen.gif" width="180" alt="Lachen"><br><sub><b>Lachen</b></sub></td>
+    <td align="center"><img src="docs/clips/idle_rockstar.gif" width="180" alt="Rock star"><br><sub><b>Rock star</b></sub></td>
+    <td align="center"><img src="docs/clips/idle_licht.gif" width="180" alt="Light"><br><sub><b>A light in his hands</b></sub></td>
+    <td align="center"><img src="docs/clips/idle_zwinkern.gif" width="180" alt="Wink"><br><sub><b>Wink</b></sub></td>
+    <td align="center"><img src="docs/clips/lachen.gif" width="180" alt="Laughing"><br><sub><b>Laughing</b></sub></td>
   </tr>
 </table>
 
-**Tänze** – auf Zuruf: „Minik, tanz Horon!“
+**Dances** – just ask: “Minik, dance the Horon!”
 
 <table>
   <tr>
-    <td align="center"><img src="docs/clips/tanz_bauchtanz.gif" width="180" alt="Bauchtanz"><br><sub><b>Bauchtanz</b></sub></td>
+    <td align="center"><img src="docs/clips/tanz_bauchtanz.gif" width="180" alt="Belly dance"><br><sub><b>Belly dance</b></sub></td>
     <td align="center"><img src="docs/clips/tanz_horon.gif" width="180" alt="Horon"><br><sub><b>Horon</b></sub></td>
     <td align="center"><img src="docs/clips/tanz_breakdance.gif" width="180" alt="Breakdance"><br><sub><b>Breakdance</b></sub></td>
-    <td align="center"><img src="docs/clips/tanz_roboter.gif" width="180" alt="Robotertanz"><br><sub><b>Robotertanz</b></sub></td>
+    <td align="center"><img src="docs/clips/tanz_roboter.gif" width="180" alt="Robot dance"><br><sub><b>Robot dance</b></sub></td>
   </tr>
 </table>
 
-**Tag und Nacht**
+**Day and night**
 
 <table>
   <tr>
-    <td align="center"><img src="docs/clips/winken.gif" width="180" alt="Winken"><br><sub><b>Winkt zurück</b></sub></td>
-    <td align="center"><img src="docs/clips/zuhoeren.gif" width="180" alt="Zuhören"><br><sub><b>Hört zu</b></sub></td>
-    <td align="center"><img src="docs/clips/einschlafen.gif" width="180" alt="Einschlafen"><br><sub><b>Müde</b></sub></td>
-    <td align="center"><img src="docs/clips/schlafen.gif" width="180" alt="Schlafen"><br><sub><b>Schläft im Bett</b></sub></td>
+    <td align="center"><img src="docs/clips/winken.gif" width="180" alt="Waving"><br><sub><b>Waves back</b></sub></td>
+    <td align="center"><img src="docs/clips/zuhoeren.gif" width="180" alt="Listening"><br><sub><b>Listening</b></sub></td>
+    <td align="center"><img src="docs/clips/einschlafen.gif" width="180" alt="Sleepy"><br><sub><b>Sleepy</b></sub></td>
+    <td align="center"><img src="docs/clips/schlafen.gif" width="180" alt="Sleeping"><br><sub><b>Asleep in bed</b></sub></td>
   </tr>
 </table>
 
-## Was Minik kann
+## What Minik can do
 
-Alles, was hier steht, macht der Prototyp heute schon. Die Android-App bringt es auf jedes Handy.
+Everything listed here already works in the prototype today. The Android app brings it to any phone.
 
-### 👂 Hören und Sprechen
-- Hört auf **„Minik“**. Das Weckwort erkennt er lokal, erst danach öffnet er das Gespräch. Der Fernseher im Hintergrund weckt ihn nicht.
-- Redet **frei wie ein Mensch** über Gemini Live: ohne Wartezeit und mit eigener Stimme.
-- Der **Mund bewegt sich live** zu seiner Stimme.
-- Nach seiner Antwort hört er **8 Sekunden weiter**, ohne dass man den Namen wiederholen muss. Solange jemand spricht, läuft die Zeit nicht.
-- Spricht **Deutsch oder Türkisch**, so wie man ihn anspricht. Andere Sprachen auf Wunsch, zum Beispiel Spanisch üben.
-- **Geduld je Person:** Wer mehr Zeit braucht, zum Beispiel ein Kind, bekommt längere Pausen, sanftes Nachfragen und Ermutigung.
+### 👂 Listening and talking
+- Wakes up to **“Minik”**. The wake word is detected on the device, and only then does he open a conversation. A TV in the background won't wake him.
+- **Talks freely, like a person**, through Gemini Live: no waiting, with his own voice.
+- His **mouth moves live** with his voice.
+- After answering he **keeps listening for 8 seconds**, so you don't have to say his name again. While someone is talking, the timer pauses.
+- Speaks **German or Turkish**, whichever you use with him. Other languages on request, for example to practice Spanish.
+- **Patience per person:** someone who needs more time, like a child, gets longer pauses, gentle follow-up questions and encouragement.
 
-### 👀 Sehen und Erkennen
-- Erkennt **Gesichter in 0,15 Sekunden** und begrüßt jeden mit seinem Namen, auch mit Kosenamen wie „babacığım“.
-- Erkennt **Stimmen**: Er weiß, wer spricht, auch wenn mehrere Menschen im Raum sind.
-- Versteht **Gesten**: Winken wird zurückgewinkt, auf Daumen hoch freut er sich.
-- **Sieht Haustiere** und kennt die Katze der Familie.
-- **„Mach ein Foto“** – lautlos, groß auf dem Display, mit Behalten oder Löschen.
-- Die Kamera arbeitet **nach Bedarf**: sparsam, wenn niemand da ist, scharf, sobald jemand kommt.
+### 👀 Seeing and recognizing
+- Recognizes **faces in 0.15 seconds** and greets everyone by name, nicknames included.
+- Recognizes **voices**: he knows who is speaking, even with several people in the room.
+- Understands **gestures**: he waves back, and a thumbs-up makes him happy.
+- **Sees pets** and knows the family cat.
+- **“Take a photo”** – silently, shown large on the screen, with Keep or Delete.
+- The camera works **on demand**: frugal when nobody is around, sharp as soon as someone shows up.
 
-### 📒 Menschen und Akten
-- Für **jede Person eine eigene Akte**: Anrede, Geburtstag, Wohnort, Beruf, Lieblingsessen, Hobbys.
-- Steht jemand vor ihm, kennt er **sofort die ganze Akte**, noch bevor die Person etwas sagt.
-- Fehlt etwas, **fragt er lieb nach** und schreibt die Antwort gleich auf. Neues wie „spricht Spanisch“ notiert er still.
-- **Geburtstage**: Er gratuliert und erinnert die Eltern an die Geburtstage der Kinder.
-- Bei **mehreren Menschen** weiß er, wer wer ist, und redet die Richtigen an.
-- Die Akten lassen sich bequem **im Browser bearbeiten**, mit Fotos je Person.
+### 📒 People and profiles
+- **A profile for every person**: how to address them, birthday, hometown, job, favorite food, hobbies.
+- When someone stands in front of him, he **knows their whole profile right away**, before they say a word.
+- If something is missing, he **asks kindly** and writes the answer down. New things like “speaks Spanish” he notes quietly.
+- **Birthdays**: he congratulates, and reminds parents of their children's birthdays.
+- With **several people** around, he knows who is who and talks to the right person.
+- Profiles are easy to **edit in the browser**, with photos for each person.
 
-### 🌙 Lernt jede Nacht
-- Nachts geht er die **Gespräche des Tages** durch: Allgemeines kommt in seine Lernnotizen, alles über Personen in deren Akten.
-- Dabei **prüft er sich auch selbst**, damit am Morgen alles läuft.
+### 🌙 Learns every night
+- At night he goes through **the day's conversations**: general things go into his learning notes, anything about a person goes into their profile.
+- He also **checks himself**, so everything works in the morning.
 
-### 🎭 Die Figur
-- Ein **Hologramm mit Charakter**: Er atmet, staunt, zwinkert, lacht und wechselt zufällig zwischen seinen Szenen, nie zweimal dieselbe hintereinander.
-- **Szenen auf Zuruf**: „Mach den Rockstar“, „Zeig den Superhelden“ – mit einem kurzen, frechen Satz angesagt.
-- Nach einem Gespräch bleibt er noch eine Weile **ruhig aufmerksam**.
-- Alle Übergänge sind nahtlos: Figur und Ring stehen in jedem Clip an genau derselben Stelle.
+### 🎭 The figure
+- **A hologram with character**: he breathes, marvels, winks, laughs and switches between his scenes at random, never the same one twice in a row.
+- **Scenes on request**: “Do the rock star”, “Show me the superhero” – announced with a short, cheeky line.
+- After a conversation he stays **calm and attentive** for a while.
+- Every transition is seamless: the figure and the ring sit in exactly the same spot in every clip.
 
-### 💃 Tanzen und Musik
-- **Tänze auf Zuruf**: Hip-Hop, Horon, Bauchtanz, Breakdance, Robotertanz, TikTok.
-- **Radio und Lautstärke** per Stimme. Läuft Musik, wird sie leiser, sobald man ihn anspricht.
-- **„Stop“** beendet Tanz und Musik sofort.
+### 💃 Dancing and music
+- **Dances on request**: hip-hop, Horon, belly dance, breakdance, robot dance, TikTok.
+- **Radio and volume** by voice. When music is playing, it gets quieter as soon as you talk to him.
+- **“Stop”** ends dance and music immediately.
 
-### 😴 Schlafen
-- „Geh schlafen“, „git uyu“ oder „ruh dich aus“: Er **gähnt, legt sich ins Bett**, der Bildschirm wird dunkel, die Kamera geht aus.
-- Nur sein **Name weckt ihn**. Dann steht er auf und sagt, dass er wieder da ist.
-- **„Günaydın“** gibt es nur einmal am Tag: morgens, wenn er dich zum ersten Mal sieht.
-- Nachts zeigt er eine schwache **Uhr, die wandert**, damit sich nichts ins Display einbrennt.
+### 😴 Sleeping
+- “Go to sleep”, “git uyu” or “have a rest”: he **yawns and gets into bed**, the screen goes dark, the camera turns off.
+- Only **his name wakes him**. Then he gets up and says he's back.
+- **“Günaydın”** (good morning) only once a day: in the morning, the first time he sees you.
+- At night he shows a faint **clock that drifts** across the screen so nothing burns in.
 
-### 📰 Nachrichten und Suche
-- Ein kleines **Nachrichtenstudio** mit echten Bildern, Schlagzeile und Laufband.
-- Nachrichten aus **Deutschland und der Türkei**, türkische Themen sucht er auf Türkisch.
-- Seine Suche findet **Heutiges**, nicht was vor Monaten war, und liest ganze Artikel.
-- **Wetter** aus Messwerten des Deutschen Wetterdienstes.
+### 📰 News and search
+- A little **news studio** with real pictures, headline and ticker.
+- News from **Germany and Turkey**; Turkish topics he searches in Turkish.
+- His search finds **today's news**, not what happened months ago, and reads full articles.
+- **Weather** from measurements of the German Weather Service (DWD).
 
-### 🏠 Alltag
-- **Termine und Erinnerungen** per Stimme.
-- **„Notiere …“** landet in seinem Tagebuch.
-- **Timer** per Stimme.
-- **Puls messen** über die Kamera: erst übers Gesicht, sonst mit dem Finger auf der Rückkamera.
-- **Hausgehör**: Er erkennt Klingel, Rauchmelder, Niesen oder Miauen und sagt bei Wichtigem Bescheid.
-- **Licht und Fernseher** schalten (im Prototyp über das Heimnetz).
+### 🏠 Everyday life
+- **Appointments and reminders** by voice.
+- **“Make a note …”** goes into his diary.
+- **Timers** by voice.
+- **Measures your pulse** with the camera: first from your face, otherwise with a finger on the rear camera.
+- **Home hearing**: he recognizes doorbells, smoke alarms, sneezing or meowing and speaks up when it matters.
+- Switches **lights and the TV** (in the prototype via the home network).
 
-## Privatsphäre
+## Privacy
 
-- Minik **speichert nichts aus der Umgebung**: keinen Ton, keine fremden Sätze. Nur Gespräche, die mit seinem Namen beginnen, gehen an Gemini.
-- **Weckwort, Gesichter, Stimmen und Akten** bleiben auf deinem Gerät.
-- **App zu heißt Minik aus.** Er hört nicht im Hintergrund mit.
-- Kein Konto, kein Server, kein Abo. Du brauchst nur deinen eigenen Gemini-Schlüssel.
+- Minik **stores nothing from his surroundings**: no audio, no overheard sentences. Only conversations that start with his name go to Gemini.
+- **Wake word, faces, voices and profiles** stay on your device.
+- **App closed means Minik is off.** He does not listen in the background.
+- No account, no server, no subscription. All you need is your own Gemini key.
 
-## Die Android-App
+## The Android app
 
 > [!NOTE]
-> Die Android-App ist in Arbeit. Die erste APK erscheint hier unter **Releases**.
+> The Android app is in progress. The first APK will appear here under **Releases**.
 
-**So wird der Start:**
+**Getting started will look like this:**
 
-1. APK aus den Releases laden und installieren.
-2. Eigenen Gemini-Schlüssel aus [Google AI Studio](https://aistudio.google.com/apikey) eintragen.
-3. Minik startet mit leerem Gedächtnis, fragt nach deinem Namen und lernt ab da selbst dazu.
+1. Download the APK from Releases and install it.
+2. Enter your own Gemini key from [Google AI Studio](https://aistudio.google.com/apikey).
+3. Minik starts with an empty memory, asks for your name and learns on his own from there.
 
-**Alles läuft auf dem Handy:**
+**Everything runs on the phone:**
 
 ```mermaid
 flowchart LR
-    K[Kamera] --> G[Gesichter<br/>ML Kit + MobileFaceNet]
-    M[Mikrofon] --> W[Weckwort + Stimme<br/>sherpa-onnx]
-    G --> A[(Akten<br/>lokal)]
+    K[Camera] --> G[Faces<br/>ML Kit + MobileFaceNet]
+    M[Microphone] --> W[Wake word + voice<br/>sherpa-onnx]
+    G --> A[(Profiles<br/>on device)]
     W --> L[Gemini Live]
     A --> L
-    L --> F[Minik spricht<br/>+ Figur]
-    L --> T[Werkzeuge<br/>Suche, Termine, Fotos]
+    L --> F[Minik talks<br/>+ figure]
+    L --> T[Tools<br/>search, appointments, photos]
 ```
 
-## Wie die Figur entsteht
+## How the figure is made
 
-Jeder Clip wird lokal auf einer eigenen Grafikkarte gebaut:
+Every clip is built locally on our own graphics card:
 
-1. **Qwen-Image-Edit** zieht Minik das Kostüm an.
-2. **MiniMax H3** macht daraus ein Video mit festem Anfangs- und Endbild, damit jeder Clip nahtlos in den nächsten passt.
-3. **BiRefNet** schneidet die Figur frei.
-4. Ein eigenes Skript gibt den **Hologramm-Look**: türkises Licht, Ring und Bühne.
+1. **Qwen-Image-Edit** puts Minik into his costume.
+2. **MiniMax H3** turns it into a video with a fixed first and last frame, so every clip flows seamlessly into the next.
+3. **BiRefNet** cuts the figure out.
+4. A custom script adds the **hologram look**: turquoise light, ring and stage.
 
-## Fahrplan
+## Roadmap
 
-- [x] Prototyp auf dem iPhone: Gespräch, Gesichter, Stimmen, Akten, Figur, Tänze, Schlafen, Nachrichten
-- [ ] Android-App mit allem auf dem Handy
-- [ ] Erste APK in den Releases
-- [ ] Minik auf dem Desktop: Figur ohne Hintergrund für Windows, Mac und Linux, mit Webcam und Mikrofon
+- [x] iPhone prototype: conversation, faces, voices, profiles, figure, dances, sleeping, news
+- [ ] Android app with everything on the phone
+- [ ] First APK in Releases
+- [ ] Minik on the desktop: a figure without background for Windows, Mac and Linux, with webcam and microphone
 
-## Lizenz
+## License
 
-Open Source. Die genaue Lizenz folgt mit der ersten Version.
+Open source. The exact license will follow with the first release.
