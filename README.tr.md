@@ -72,6 +72,10 @@ Minik hiç durmaz. Kimse onunla konuşmadığında sahneleri arasında rastgele 
     <td align="center"><img src="docs/clips/tanz_breakdance.gif" width="180" alt="Breakdance"><br><sub><b>Breakdance</b></sub></td>
     <td align="center"><img src="docs/clips/tanz_roboter.gif" width="180" alt="Robot dansı"><br><sub><b>Robot dansı</b></sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="docs/clips/tanz_hiphop1.gif" width="180" alt="Hip-hop"><br><sub><b>Hip-hop</b></sub></td>
+    <td align="center"><img src="docs/clips/tanz_hiphop2.gif" width="180" alt="Hip-hop, ikinci tur"><br><sub><b>Hip-hop, ikinci tur</b></sub></td>
+  </tr>
 </table>
 
 **Gece ve gündüz**

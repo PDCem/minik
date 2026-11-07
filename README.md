@@ -72,6 +72,10 @@ Minik never stands still. When nobody is talking to him, he switches between his
     <td align="center"><img src="docs/clips/tanz_breakdance.gif" width="180" alt="Breakdance"><br><sub><b>Breakdance</b></sub></td>
     <td align="center"><img src="docs/clips/tanz_roboter.gif" width="180" alt="Robot dance"><br><sub><b>Robot dance</b></sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="docs/clips/tanz_hiphop1.gif" width="180" alt="Hip-hop"><br><sub><b>Hip-hop</b></sub></td>
+    <td align="center"><img src="docs/clips/tanz_hiphop2.gif" width="180" alt="Hip-hop, round two"><br><sub><b>Hip-hop, round two</b></sub></td>
+  </tr>
 </table>
 
 **Day and night**

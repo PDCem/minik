@@ -72,6 +72,10 @@ Minik steht nie still. In der Ruhe wechselt er zufällig zwischen seinen Szenen,
     <td align="center"><img src="docs/clips/tanz_breakdance.gif" width="180" alt="Breakdance"><br><sub><b>Breakdance</b></sub></td>
     <td align="center"><img src="docs/clips/tanz_roboter.gif" width="180" alt="Robotertanz"><br><sub><b>Robotertanz</b></sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="docs/clips/tanz_hiphop1.gif" width="180" alt="Hip-Hop"><br><sub><b>Hip-Hop</b></sub></td>
+    <td align="center"><img src="docs/clips/tanz_hiphop2.gif" width="180" alt="Hip-Hop, zweite Runde"><br><sub><b>Hip-Hop, zweite Runde</b></sub></td>
+  </tr>
 </table>
 
 **Tag und Nacht**
