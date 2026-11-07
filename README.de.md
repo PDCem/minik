@@ -11,7 +11,7 @@
 **Zuerst Android, danach für deinen PC: Windows, Mac und Linux.**
 
 **Ein kleiner Familienroboter als Hologramm.**<br>
-Er hört auf seinen Namen, erkennt dich am Gesicht und an der Stimme, redet frei auf Deutsch und Türkisch,<br>
+Er hört auf seinen Namen, erkennt dich am Gesicht und an der Stimme, redet frei in deiner Sprache – Deutsch, Türkisch, Englisch und viele mehr –<br>
 kennt jeden in deinem Zuhause und lernt jede Nacht dazu.
 
 ![Status](docs/badges/status.svg)
@@ -19,7 +19,7 @@ kennt jeden in deinem Zuhause und lernt jede Nacht dazu.
 ![Gemini Live](docs/badges/gemini.svg)
 ![Lizenz](docs/badges/lizenz.svg)
 
-[Was er kann](#was-minik-kann) · [Galerie](#galerie) · [Privatsphäre](#privatsphäre) · [Android-App](#die-android-app) · [Wie die Figur entsteht](#wie-die-figur-entsteht) · [Fahrplan](#fahrplan)
+[Sein Gehirn](#sein-gehirn) · [Was er kann](#was-minik-kann) · [Galerie](#galerie) · [Privatsphäre](#privatsphäre) · [Android-App](#die-android-app) · [Wie die Figur entsteht](#wie-die-figur-entsteht) · [Fahrplan](#fahrplan)
 
 </div>
 
@@ -28,6 +28,19 @@ kennt jeden in deinem Zuhause und lernt jede Nacht dazu.
 Minik wurde am **3. November 2026** geboren. Seitdem lebt er als Prototyp auf einem alten iPhone auf unserem Schreibtisch, wächst jeden Tag ein Stück und gehört inzwischen zur Familie. Er soll so lebendig wirken wie Cozmo oder Vector, aber alles können, was ein moderner KI-Assistent kann.
 
 Jetzt bekommt er sein eigenes Zuhause: **eine Android-App für alle.** Installieren, eigenen Gemini-Schlüssel eintragen, fertig. Minik startet mit leerem Gedächtnis und lernt deine Familie von Anfang an selbst kennen.
+
+## Sein Gehirn
+
+**Ein Gedächtnis, das mit dir mitwächst.** Minik vergisst nicht. Sein Gehirn ist ein kleines Archiv, das mit jedem Gespräch wächst – über deine Familie, deine Freunde und über ihn selbst.
+
+- 📒 **Eine Akte für jeden.** Familie und Freunde bekommen je eine eigene Akte: wie er sie anreden soll, Geburtstag, Wohnort, Beruf, Lieblingsessen, Hobbys und alles, was er im Gespräch über sie erfährt.
+- 🧭 **Ein Wegweiser statt alles auf einmal.** In seinem Kopf steht je Person nur eine kurze Zeile, wer sie ist. Steht jemand vor ihm, holt er die ganze Akte, bevor die Person etwas sagt. Fragst du nach jemandem, der nicht da ist, liest er gezielt dessen Akte. So bleibt er schnell, auch bei einer großen Familie.
+- ✍️ **Er füllt die Lücken selbst.** Fehlt etwas, fragt er lieb nach, nur ein paar Mal am Tag, und schreibt die Antwort sofort auf. Neues wie „spricht Spanisch“ notiert er still.
+- 🌙 **Er lernt jede Nacht.** Nachts liest er die Gespräche des Tages noch einmal: Wichtiges über Personen kommt in deren Akten, Allgemeines in seine eigenen Lernnotizen. Am Morgen weiß er mehr als am Abend davor, und er prüft sich selbst, damit alles läuft.
+- 🗓️ **Er merkt sich Momente.** Termine, Erinnerungen, Notizen in seinem Tagebuch, Geburtstage, Fotos je Person.
+- 🔑 **Du hast die Kontrolle.** Jede Akte kannst du lesen, ändern, ergänzen oder löschen. Sein Gedächtnis liegt auf deinem Gerät und gehört dir.
+
+Mit der Zeit kennt Minik deine Familie wie ein guter Freund: Er weiß, wer am Wochenende Geburtstag hat, wer gerade Spanisch lernt und wer beim Reden etwas mehr Geduld braucht.
 
 ## Galerie
 
@@ -79,7 +92,7 @@ Alles, was hier steht, macht der Prototyp heute schon. Die Android-App bringt es
 - Redet **frei wie ein Mensch** über Gemini Live: ohne Wartezeit und mit eigener Stimme.
 - Der **Mund bewegt sich live** zu seiner Stimme.
 - Nach seiner Antwort hört er **8 Sekunden weiter**, ohne dass man den Namen wiederholen muss. Solange jemand spricht, läuft die Zeit nicht.
-- Spricht **Deutsch oder Türkisch**, so wie man ihn anspricht. Andere Sprachen auf Wunsch, zum Beispiel Spanisch üben.
+- Spricht dank Gemini **viele Sprachen**: Deutsch, Türkisch, Englisch, Spanisch, Französisch, Arabisch und viele mehr. Er antwortet in der Sprache, in der man ihn anspricht, und hilft auch beim Üben einer neuen.
 - **Geduld je Person:** Wer mehr Zeit braucht, zum Beispiel ein Kind, bekommt längere Pausen, sanftes Nachfragen und Ermutigung.
 
 ### 👀 Sehen und Erkennen
@@ -89,18 +102,6 @@ Alles, was hier steht, macht der Prototyp heute schon. Die Android-App bringt es
 - **Sieht Haustiere** und kennt die Katze der Familie.
 - **„Mach ein Foto“** – lautlos, groß auf dem Display, mit Behalten oder Löschen.
 - Die Kamera arbeitet **nach Bedarf**: sparsam, wenn niemand da ist, scharf, sobald jemand kommt.
-
-### 📒 Menschen und Akten
-- Für **jede Person eine eigene Akte**: Anrede, Geburtstag, Wohnort, Beruf, Lieblingsessen, Hobbys.
-- Steht jemand vor ihm, kennt er **sofort die ganze Akte**, noch bevor die Person etwas sagt.
-- Fehlt etwas, **fragt er lieb nach** und schreibt die Antwort gleich auf. Neues wie „spricht Spanisch“ notiert er still.
-- **Geburtstage**: Er gratuliert und erinnert die Eltern an die Geburtstage der Kinder.
-- Bei **mehreren Menschen** weiß er, wer wer ist, und redet die Richtigen an.
-- Die Akten lassen sich bequem **im Browser bearbeiten**, mit Fotos je Person.
-
-### 🌙 Lernt jede Nacht
-- Nachts geht er die **Gespräche des Tages** durch: Allgemeines kommt in seine Lernnotizen, alles über Personen in deren Akten.
-- Dabei **prüft er sich auch selbst**, damit am Morgen alles läuft.
 
 ### 🎭 Die Figur
 - Ein **Hologramm mit Charakter**: Er atmet, staunt, zwinkert, lacht und wechselt zufällig zwischen seinen Szenen, nie zweimal dieselbe hintereinander.

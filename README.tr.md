@@ -11,7 +11,7 @@
 **Önce Android, ardından bilgisayarın için: Windows, Mac ve Linux.**
 
 **Hologram olarak yaşayan küçük bir aile robotu.**<br>
-Adını duyunca uyanır, seni yüzünden ve sesinden tanır, Almanca ve Türkçe rahatça konuşur,<br>
+Adını duyunca uyanır, seni yüzünden ve sesinden tanır, senin dilinde rahatça konuşur – Türkçe, Almanca, İngilizce ve daha birçok dilde –<br>
 evindeki herkesi tanır ve her gece yeni bir şey öğrenir.
 
 ![Durum](docs/badges/status-tr.svg)
@@ -19,7 +19,7 @@ evindeki herkesi tanır ve her gece yeni bir şey öğrenir.
 ![Gemini Live](docs/badges/gemini-tr.svg)
 ![Lisans](docs/badges/lizenz-tr.svg)
 
-[Neler yapabilir](#minik-neler-yapabilir) · [Galeri](#galeri) · [Gizlilik](#gizlilik) · [Android uygulaması](#android-uygulaması) · [Figür nasıl yapılıyor](#figür-nasıl-yapılıyor) · [Yol haritası](#yol-haritası)
+[Beyni](#beyni) · [Neler yapabilir](#minik-neler-yapabilir) · [Galeri](#galeri) · [Gizlilik](#gizlilik) · [Android uygulaması](#android-uygulaması) · [Figür nasıl yapılıyor](#figür-nasıl-yapılıyor) · [Yol haritası](#yol-haritası)
 
 </div>
 
@@ -28,6 +28,19 @@ evindeki herkesi tanır ve her gece yeni bir şey öğrenir.
 Minik **3 Kasım 2026**'da doğdu. O günden beri masamızdaki eski bir iPhone'da prototip olarak yaşıyor, her gün biraz daha büyüyor ve artık ailenin bir parçası. Cozmo ya da Vector kadar canlı hissettirmesi, ama modern bir yapay zekâ asistanının yapabildiği her şeyi yapabilmesi amaçlanıyor.
 
 Şimdi kendi evine kavuşuyor: **herkes için bir Android uygulaması.** Yükle, kendi Gemini anahtarını gir, hepsi bu. Minik boş bir hafızayla başlar ve aileni ilk günden itibaren kendi kendine tanır.
+
+## Beyni
+
+**Seninle birlikte büyüyen bir hafıza.** Minik unutmaz. Beyni, her sohbetle büyüyen küçük bir arşiv: ailen, arkadaşların ve kendisi hakkında.
+
+- 📒 **Herkes için bir dosya.** Aile ve arkadaşların her biri kendi dosyasını alır: onlara nasıl hitap edeceği, doğum günü, memleket, meslek, sevdiği yemek, hobiler ve sohbette onlar hakkında öğrendiği her şey.
+- 🧭 **Hepsini birden değil, bir yol gösterici.** Kafasında her kişi için kim olduğunu anlatan kısa bir satır vardır. Biri karşısına geçince, o kişi daha konuşmadan dosyasının tamamını açar. Orada olmayan birini sorarsan, sadece onun dosyasını okur. Böylece aile kalabalık olsa da hızlı kalır.
+- ✍️ **Eksikleri kendisi tamamlar.** Bir şey eksikse tatlılıkla sorar, günde sadece birkaç kez, ve cevabı hemen not eder. „İspanyolca biliyor“ gibi yenilikleri sessizce kaydeder.
+- 🌙 **Her gece öğrenir.** Geceleri günün sohbetlerini yeniden okur: Bir kişiyle ilgili önemli bilgiler o kişinin dosyasına, genel bilgiler kendi öğrenme notlarına gider. Sabah bir önceki akşamdan daha çok şey bilir ve her şey yolunda olsun diye kendini kontrol eder.
+- 🗓️ **Anları saklar.** Randevular, hatırlatmalar, günlüğündeki notlar, doğum günleri, her kişi için fotoğraflar.
+- 🔑 **Kontrol sende.** Her dosyayı okuyabilir, değiştirebilir, ekleme yapabilir ya da silebilirsin. Hafızası senin cihazında durur ve sana aittir.
+
+Zamanla Minik aileni iyi bir dost gibi tanır: Bu hafta sonu kimin doğum günü olduğunu, kimin İspanyolca öğrendiğini ve kimin konuşurken biraz daha sabra ihtiyacı olduğunu bilir.
 
 ## Galeri
 
@@ -79,7 +92,7 @@ Burada yazan her şey prototipte bugün zaten çalışıyor. Android uygulaması
 - Gemini Live ile **bir insan gibi rahatça konuşur**: beklemeden, kendi sesiyle.
 - Konuşurken **ağzı sesine göre canlı hareket eder**.
 - Cevabından sonra **8 saniye daha dinler**, adını tekrar söylemene gerek kalmaz. Biri konuşurken süre işlemez.
-- Ona nasıl hitap edersen öyle, **Almanca ya da Türkçe** konuşur. İstenirse başka dillerde de, örneğin İspanyolca pratik yapmak için.
+- Gemini sayesinde **birçok dil** konuşur: Türkçe, Almanca, İngilizce, İspanyolca, Fransızca, Arapça ve daha fazlası. Ona hangi dilde seslenirsen o dilde cevap verir, yeni bir dil öğrenirken de pratik yapmana yardım eder.
 - **Kişiye göre sabır:** Daha çok zamana ihtiyacı olan, örneğin bir çocuk, daha uzun aralar, nazik sorular ve cesaret alır.
 
 ### 👀 Görmek ve tanımak
@@ -89,18 +102,6 @@ Burada yazan her şey prototipte bugün zaten çalışıyor. Android uygulaması
 - **Evcil hayvanları görür** ve ailenin kedisini tanır.
 - **„Fotoğraf çek“** – sessizce, ekranda büyük, Sakla ya da Sil seçeneğiyle.
 - Kamera **ihtiyaca göre** çalışır: kimse yokken tasarruflu, biri gelince net.
-
-### 📒 İnsanlar ve dosyalar
-- **Herkes için ayrı bir dosya**: hitap şekli, doğum günü, memleket, meslek, sevdiği yemek, hobiler.
-- Biri karşısına geçtiğinde, daha o kişi konuşmadan **dosyasının tamamını bilir**.
-- Bir şey eksikse **tatlılıkla sorar** ve cevabı hemen not eder. „İspanyolca biliyor“ gibi yenilikleri sessizce kaydeder.
-- **Doğum günleri**: Kutlar ve anne babaya çocuklarının doğum günlerini hatırlatır.
-- **Birden fazla kişi** varken kimin kim olduğunu bilir ve doğru kişiye hitap eder.
-- Dosyalar fotoğraflarıyla birlikte **tarayıcıdan kolayca düzenlenir**.
-
-### 🌙 Her gece öğrenir
-- Geceleri **günün sohbetlerini** gözden geçirir: Genel bilgiler öğrenme notlarına, bir kişiyle ilgili her şey o kişinin dosyasına gider.
-- Sabah her şey yolunda olsun diye **kendini de kontrol eder**.
 
 ### 🎭 Figür
 - **Karakteri olan bir hologram**: Nefes alır, hayret eder, göz kırpar, güler ve sahneleri arasında rastgele geçer, aynı sahne asla art arda gelmez.

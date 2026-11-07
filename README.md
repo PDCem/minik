@@ -11,7 +11,7 @@
 **Android first, then for your PC: Windows, Mac and Linux.**
 
 **A tiny family robot, living as a hologram.**<br>
-He wakes up to his name, knows you by your face and your voice, talks freely in German and Turkish,<br>
+He wakes up to his name, knows you by your face and your voice, talks freely in your language – German, Turkish, English and many more –<br>
 knows everyone in your home and learns something new every night.
 
 ![Status](docs/badges/status-en.svg)
@@ -19,7 +19,7 @@ knows everyone in your home and learns something new every night.
 ![Gemini Live](docs/badges/gemini-en.svg)
 ![License](docs/badges/lizenz-en.svg)
 
-[What he can do](#what-minik-can-do) · [Gallery](#gallery) · [Privacy](#privacy) · [Android app](#the-android-app) · [How the figure is made](#how-the-figure-is-made) · [Roadmap](#roadmap)
+[His brain](#his-brain) · [What he can do](#what-minik-can-do) · [Gallery](#gallery) · [Privacy](#privacy) · [Android app](#the-android-app) · [How the figure is made](#how-the-figure-is-made) · [Roadmap](#roadmap)
 
 </div>
 
@@ -28,6 +28,19 @@ knows everyone in your home and learns something new every night.
 Minik was born on **November 3, 2026**. Since then he has lived as a prototype on an old iPhone on our desk, growing a little every day, and he has become part of the family. He is meant to feel as alive as Cozmo or Vector, while doing everything a modern AI assistant can do.
 
 Now he gets a home of his own: **an Android app for everyone.** Install it, enter your own Gemini key, done. Minik starts with an empty memory and gets to know your family by himself, from day one.
+
+## His brain
+
+**A memory that grows with you.** Minik doesn't forget. His brain is a small archive that grows with every conversation – about your family, your friends and about himself.
+
+- 📒 **A profile for everyone.** Family and friends each get their own profile: how he should address them, birthday, hometown, job, favorite food, hobbies, and everything he learns about them in conversation.
+- 🧭 **A signpost instead of everything at once.** In his head there is just one short line per person saying who they are. When someone stands in front of him, he pulls up their whole profile before they say a word. Ask about someone who isn't there, and he reads exactly that profile. So he stays fast, even with a big family.
+- ✍️ **He fills the gaps himself.** If something is missing, he asks kindly, only a few times a day, and writes the answer down right away. New things like “speaks Spanish” he notes quietly.
+- 🌙 **He learns every night.** At night he rereads the day's conversations: anything important about a person goes into their profile, general things into his own learning notes. In the morning he knows more than the evening before, and he checks himself so everything works.
+- 🗓️ **He keeps moments.** Appointments, reminders, notes in his diary, birthdays, photos for each person.
+- 🔑 **You're in control.** You can read, change, add to or delete every profile. His memory lives on your device and belongs to you.
+
+Over time Minik gets to know your family the way a good friend does: he knows whose birthday is this weekend, who is learning Spanish and who needs a little more patience when talking.
 
 ## Gallery
 
@@ -79,7 +92,7 @@ Everything listed here already works in the prototype today. The Android app bri
 - **Talks freely, like a person**, through Gemini Live: no waiting, with his own voice.
 - His **mouth moves live** with his voice.
 - After answering he **keeps listening for 8 seconds**, so you don't have to say his name again. While someone is talking, the timer pauses.
-- Speaks **German or Turkish**, whichever you use with him. Other languages on request, for example to practice Spanish.
+- Speaks **many languages** thanks to Gemini: German, Turkish, English, Spanish, French, Arabic and many more. He answers in the language you speak to him, and he can help you practice a new one.
 - **Patience per person:** someone who needs more time, like a child, gets longer pauses, gentle follow-up questions and encouragement.
 
 ### 👀 Seeing and recognizing
@@ -89,18 +102,6 @@ Everything listed here already works in the prototype today. The Android app bri
 - **Sees pets** and knows the family cat.
 - **“Take a photo”** – silently, shown large on the screen, with Keep or Delete.
 - The camera works **on demand**: frugal when nobody is around, sharp as soon as someone shows up.
-
-### 📒 People and profiles
-- **A profile for every person**: how to address them, birthday, hometown, job, favorite food, hobbies.
-- When someone stands in front of him, he **knows their whole profile right away**, before they say a word.
-- If something is missing, he **asks kindly** and writes the answer down. New things like “speaks Spanish” he notes quietly.
-- **Birthdays**: he congratulates, and reminds parents of their children's birthdays.
-- With **several people** around, he knows who is who and talks to the right person.
-- Profiles are easy to **edit in the browser**, with photos for each person.
-
-### 🌙 Learns every night
-- At night he goes through **the day's conversations**: general things go into his learning notes, anything about a person goes into their profile.
-- He also **checks himself**, so everything works in the morning.
 
 ### 🎭 The figure
 - **A hologram with character**: he breathes, marvels, winks, laughs and switches between his scenes at random, never the same one twice in a row.
