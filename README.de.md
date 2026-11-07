@@ -10,7 +10,7 @@
 
 **Zuerst Android, danach für deinen PC: Windows, Mac und Linux.**
 
-**Ein kleiner Familienroboter als Hologramm.**<br>
+**Ein kleines Hologramm, das in deinem Handy lebt.**<br>
 Er hört auf seinen Namen, erkennt dich am Gesicht und an der Stimme, redet frei in deiner Sprache – Deutsch, Türkisch, Englisch und viele mehr –<br>
 kennt jeden in deinem Zuhause und lernt jede Nacht dazu.
 

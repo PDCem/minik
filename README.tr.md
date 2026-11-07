@@ -10,7 +10,7 @@
 
 **Önce Android, ardından bilgisayarın için: Windows, Mac ve Linux.**
 
-**Hologram olarak yaşayan küçük bir aile robotu.**<br>
+**Telefonunda yaşayan küçük bir hologram.**<br>
 Adını duyunca uyanır, seni yüzünden ve sesinden tanır, senin dilinde rahatça konuşur – Türkçe, Almanca, İngilizce ve daha birçok dilde –<br>
 evindeki herkesi tanır ve her gece yeni bir şey öğrenir.
 

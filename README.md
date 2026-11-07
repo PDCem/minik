@@ -10,7 +10,7 @@
 
 **Android first, then for your PC: Windows, Mac and Linux.**
 
-**A tiny family robot, living as a hologram.**<br>
+**A little hologram who lives in your phone.**<br>
 He wakes up to his name, knows you by your face and your voice, talks freely in your language – German, Turkish, English and many more –<br>
 knows everyone in your home and learns something new every night.
 
