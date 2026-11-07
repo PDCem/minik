@@ -152,6 +152,16 @@ Everything listed here already works in the prototype today. The Android app bri
 2. Enter your own Gemini key from [Google AI Studio](https://aistudio.google.com/apikey).
 3. Minik starts with an empty memory, asks for your name and learns on his own from there.
 
+**Minik's control center in the app.** Just like the board of the prototype, you see and steer everything yourself and make Minik your own:
+
+- 🏠 **Today:** what he's up to right now, plus the day's appointments and events.
+- 📒 **People & profiles:** read and edit every profile, add new people, assign photos.
+- 💬 **Conversations:** what was said, with transcript and who said it.
+- 🗓️ **Calendar & notes:** appointments, reminders and his diary.
+- 🧠 **Brain:** see what he has learned, correct it, or tell him to forget something.
+- 🎬 **Clips:** watch all his scenes and dances and rate them.
+- ⚙️ **Settings:** language, wake word, patience per person, camera and microphone, which scenes and dances he shows, and much more.
+
 **Everything runs on the phone:**
 
 ```mermaid

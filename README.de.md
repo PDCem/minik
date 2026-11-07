@@ -152,6 +152,16 @@ Alles, was hier steht, macht der Prototyp heute schon. Die Android-App bringt es
 2. Eigenen Gemini-Schlüssel aus [Google AI Studio](https://aistudio.google.com/apikey) eintragen.
 3. Minik startet mit leerem Gedächtnis, fragt nach deinem Namen und lernt ab da selbst dazu.
 
+**Miniks Schaltzentrale in der App.** Wie im Board des Prototyps siehst und steuerst du alles selbst und machst Minik zu deinem eigenen:
+
+- 🏠 **Heute:** was er gerade macht, dazu Termine und Ereignisse des Tages.
+- 📒 **Menschen & Akten:** jede Akte lesen und bearbeiten, neue Personen anlegen, Fotos zuordnen.
+- 💬 **Gespräche:** was gesagt wurde, mit Mitschrift und wer es gesagt hat.
+- 🗓️ **Kalender & Notizen:** Termine, Erinnerungen und sein Tagebuch.
+- 🧠 **Gehirn:** sehen, was er gelernt hat, es korrigieren oder ihn etwas vergessen lassen.
+- 🎬 **Clips:** alle Szenen und Tänze ansehen und bewerten.
+- ⚙️ **Einstellungen:** Sprache, Weckwort, Geduld je Person, Kamera und Mikrofon, welche Szenen und Tänze er zeigt, und vieles mehr.
+
 **Alles läuft auf dem Handy:**
 
 ```mermaid

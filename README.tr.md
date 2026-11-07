@@ -152,6 +152,16 @@ Burada yazan her şey prototipte bugün zaten çalışıyor. Android uygulaması
 2. [Google AI Studio](https://aistudio.google.com/apikey)'dan aldığın kendi Gemini anahtarını gir.
 3. Minik boş bir hafızayla başlar, adını sorar ve oradan sonra kendi kendine öğrenir.
 
+**Uygulamada Minik'in kontrol merkezi.** Prototipin panosunda olduğu gibi her şeyi kendin görür, yönetir ve Minik'i kendine göre ayarlarsın:
+
+- 🏠 **Bugün:** şu an ne yaptığı, günün randevuları ve olayları.
+- 📒 **İnsanlar ve dosyalar:** her dosyayı oku ve düzenle, yeni kişiler ekle, fotoğraf ata.
+- 💬 **Sohbetler:** ne konuşulduğu, metniyle ve kimin söylediğiyle.
+- 🗓️ **Takvim ve notlar:** randevular, hatırlatmalar ve günlüğü.
+- 🧠 **Beyin:** ne öğrendiğini gör, düzelt ya da bir şeyi unutmasını söyle.
+- 🎬 **Klipler:** tüm sahnelerini ve danslarını izle ve puanla.
+- ⚙️ **Ayarlar:** dil, uyandırma kelimesi, kişiye göre sabır, kamera ve mikrofon, hangi sahne ve dansları göstereceği ve çok daha fazlası.
+
 **Her şey telefonda çalışır:**
 
 ```mermaid
