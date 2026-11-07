@@ -6,6 +6,8 @@
 
 # Minik
 
+## *Herkes kendi Jarvis'ini yapıyor. Boş ver – işte Minik.*
+
 ### 🚧 Yakında Android uygulaması olarak
 
 **Önce Android, ardından bilgisayarın için: Windows, Mac ve Linux.**

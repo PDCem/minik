@@ -6,6 +6,8 @@
 
 # Minik
 
+## *Jeder baut sein Jarvis. Lass es – hier ist Minik.*
+
 ### 🚧 Kommt bald als Android-App
 
 **Zuerst Android, danach für deinen PC: Windows, Mac und Linux.**

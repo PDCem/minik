@@ -6,6 +6,8 @@
 
 # Minik
 
+## *Everyone is building their own Jarvis. Skip it – meet Minik.*
+
 ### 🚧 Coming soon as an Android app
 
 **Android first, then for your PC: Windows, Mac and Linux.**
